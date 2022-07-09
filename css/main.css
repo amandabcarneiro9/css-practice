@@ -1,0 +1,35 @@
+.gallery {
+  display: flex;
+  flex-direction: column;
+  height: 400px;
+}
+.title-main {
+  text-align: center;
+  margin-top: 58px;
+  margin-bottom: 58px;
+  font-size: 36px;
+  font-weight: bold;
+  color: #1f2937;
+}
+.cities {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+.city {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 25%;
+}
+
+.gallery-image {
+  width: 160px;
+  height: 160px;
+  border-radius: 5px;
+}
+.image-subtitle {
+  display: block;
+  width: 160px;
+}

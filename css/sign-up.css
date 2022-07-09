@@ -1,0 +1,42 @@
+.call-to-action {
+  height: 400px;
+}
+
+.sign-up {
+  margin: 100px auto 100px auto;
+  height: 150px;
+  background-color: #3882f6;
+  display: flex;
+  align-items: center;
+  flex: 0 0 50%;
+}
+.sign-up-texts {
+  margin-left: 100px;
+  width: 50%;
+  color: white;
+}
+
+.sign-up-title {
+  margin: 0;
+}
+
+.sign-up-place-button {
+  display: flex;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+}
+.sign-up-button {
+  width: 140px;
+  height: 40px;
+  background-color: #3882f6;
+  border: 2px white solid;
+  border-radius: 5px;
+  color: white;
+  font-size: 18px;
+}
+
+.sign-up-button:hover {
+  background-color: white;
+  color: #3882f6;
+}
