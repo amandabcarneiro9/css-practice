@@ -1,8 +1,4 @@
-.call-to-action {
-  height: 400px;
-}
-
-.sign-up {
+.call_to_action .sign-up {
   margin: 100px auto 100px auto;
   height: 150px;
   background-color: #3882f6;
