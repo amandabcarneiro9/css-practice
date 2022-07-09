@@ -2,6 +2,7 @@
 @import "../css/top.css";
 @import "../css/quote.css";
 @import "../css/sign-up.css";
+@import "../css/footer.css";
 * {
   box-sizing: border-box;
 }
