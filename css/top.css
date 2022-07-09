@@ -29,6 +29,11 @@
 
 .link {
   margin-left: 60px;
+  cursor: pointer;
+}
+.link:hover {
+  transform: scale(1.1, 1.1);
+  text-decoration: underline;
 }
 .header {
   display: flex;
